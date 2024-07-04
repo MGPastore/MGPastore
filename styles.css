@@ -1,0 +1,223 @@
+/* Estilos generales para tema oscuro */
+body {
+  background-color: #222;
+  color: #fff;
+}
+
+/* Estilos para enlaces */
+a {
+  text-decoration: none;
+
+}
+i{
+  color: #fff; /* Color azul al hacer hover */
+   font-size: 1.5rem;
+}
+
+i:hover {
+  color: #007bff; /* Color azul al hacer hover */
+   font-size: 1.5rem;
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+  background-color: #333;
+}
+
+.navbar-brand {
+  color: #fff; /* Color blanco inicial */
+}
+
+.navbar-brand:hover {
+  color: #0a58ca; /* Azul más oscuro al pasar el mouse */
+}
+
+.navbar-nav .nav-link {
+  color: #fff; /* Color blanco inicial */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #0a58ca; /* Azul más oscuro al pasar el mouse */
+}
+
+/* Secciones específicas */
+.welcome-section {
+  background-color: #333;
+  padding: 100px 0;
+  height: 100vh; /* Altura del 100% del viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff; /* Texto blanco */
+  text-align: center;
+  padding: 50px 20px; /* Espaciado interno */
+}
+
+.welcome-section h1 {
+  font-size: 3rem; /* Tamaño de fuente grande para el título */
+  margin-bottom: 20px; /* Espacio inferior */
+}
+
+.welcome-section p {
+  font-size: 1.5rem; /* Tamaño de fuente para el subtítulo */
+}
+
+.welcome-section a {
+  color: #fff; /* Color de enlaces blanco */
+  margin: 0 10px; /* Margen entre enlaces */
+}
+
+.welcome-section a:hover {
+  text-decoration: none; /* Sin subrayado al pasar el mouse */
+}
+
+/* Sección about */
+.about-section {
+  background-color: #333;
+  color: #fff;
+  padding: 100px 0;
+}
+
+/* Sección skills */
+.skills-section {
+  background-color: #222;
+  color: #fff;
+  height: 100vh; /* Altura del 100% del viewport height */
+  padding: 100px 0;
+}
+
+#skills h2,
+#skills h5,
+#skills ul {
+  color: #000; /* Color de texto negro */
+}
+
+/* Sección projects */
+.projects-section {
+  background-color: #333;
+  color: #fff;
+  height: 100vh; /* Altura del 100% del viewport height */
+  padding: 50px 0;
+}
+
+/* Sección timeline */
+.timeline-section {
+  background-color: #222;
+  color: #000; /* Color de texto negro */
+  height: 100vh; /* Altura del 100% del viewport height */
+  padding: 100px 0;
+}
+
+.timeline-section h2,
+.timeline-section h5,
+.timeline-section p {
+  color: #000; /* Color de texto negro */
+}
+
+#timeline h2,
+#timeline h5 {
+  color: #000; /* Color de texto negro */
+}
+
+/* Sección contact */
+.contact-section {
+  background-color: #333;
+  color: #fff;
+  padding: 100px 0;
+}
+
+.contact-section .form-label {
+  color: #fff;
+}
+
+.contact-section .form-control {
+  background-color: #444;
+  color: #fff;
+  border-color: #666;
+}
+
+.contact-section .btn-primary {
+  background-color: #0d6efd; /* Azul característico */
+  border-color: #0d6efd; /* Azul característico */
+}
+
+.contact-section .btn-primary:hover {
+  background-color: #0a58ca; /* Azul más oscuro al pasar el mouse */
+  border-color: #0a58ca; /* Azul más oscuro al pasar el mouse */
+}
+    /* Estilos del footer */
+    footer {
+      background-color: #333;
+      color: #ffffff;
+      padding: 40px 0;
+  }
+
+  footer .footer-links {
+      margin-bottom: 20px;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+  }
+
+  footer .footer-links a {
+      color: #888;
+      margin: 0 15px;
+  }
+
+  footer .footer-links a:hover {
+      color: #007bff;
+  }
+
+  footer .social-icons {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 20px;
+  }
+
+  footer .social-icons a {
+      color: #888;
+      margin: 0 10px;
+      font-size: 1.5rem;
+  }
+
+  footer .social-icons a:hover {
+      color: #007bff;
+  }
+
+  footer .footer-form {
+      text-align: center;
+  }
+
+  footer .footer-form .form-control {
+      background-color: #fff;
+      color: #fff;
+      border-color: #666;
+  }
+
+  footer .footer-form .btn-primary {
+      background-color: #0d6efd;
+      border-color: #0d6efd;
+  }
+
+  footer .footer-form .btn-primary:hover {
+      background-color: #0a58ca;
+      border-color: #0a58ca;
+  }
+
+  .card-img-top {
+    width: 100%;
+    height: 200px; /* Altura fija para todas las imágenes */
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin deformarla */
+    border-radius: 8px; /* Bordes redondeados para un aspecto más suave */
+}
+.card-text {
+  font-size: 0.9rem; /* Reducir el tamaño de la fuente */
+  line-height: 1.4; /* Ajustar el espacio entre líneas para mejorar la legibilidad */
+  color: #333; /* Color de texto predeterminado para mejorar la visibilidad */
+}
+
+.card {
+  width: 300px; /* Ajusta el tamaño deseado */
+  height: 500px; /* Ajusta la altura deseada si es necesario */
+  /* Otros estilos necesarios */
+}
