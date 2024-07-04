@@ -39,7 +39,7 @@ El Pokedex Responsive es una herramienta interactiva diseñada para explorar y c
   - Habilidades digitales para la empleabilidad
   - Microsoft IT Academy | Instituto Nacional de Empleo y Formación Profesional
 
-  - **2020**
+- **2020**
   - Certificación en JavaScript
   - Jóvenes a Programar | Plan Ceibal
 
