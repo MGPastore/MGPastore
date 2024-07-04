@@ -25,26 +25,28 @@ La App de la Galleta de la Fortuna es una aplicación web diseñada para ofrecer
 #### Proyecto 2: Pokedex de Pokemon
 El Pokedex Responsive es una herramienta interactiva diseñada para explorar y conocer detalles clave de los Pokémon de manera intuitiva y accesible. Este proyecto se enfoca en proporcionar una experiencia de usuario fluida y agradable, adaptándose perfectamente a diferentes dispositivos y tamaños de pantalla.
 
-#### Proyecto 3
-Descripción breve del proyecto 3.
 
 ### Línea de Tiempo Académica
 - **2024**
   - Curso técnico en IT y Redes
   - Polo Educativo Tecnológico | Universidad del Trabajo Uruguay
 
-- **2024**
+- **2023**
   - Curso técnico en Diseño
   - Polo Educativo Tecnológico | Universidad del Trabajo Uruguay
 
 - **2023**
-  - Curso en Desarrollo Web con Java y PHP
-  - Ametrano & Asociados | Instituto Nacional de Empleo y Formación Profesional
+  - Habilidades digitales para la empleabilidad
+  - Microsoft IT Academy | Instituto Nacional de Empleo y Formación Profesional
 
-- **2022**
+  - **2020**
   - Certificación en JavaScript
   - Jóvenes a Programar | Plan Ceibal
 
-- **2022**
-  - Habilidades digitales para la empleabilidad
-  - Microsoft IT Academy | Instituto Nacional de Empleo y Formación Profesional
+- **2019**
+  - Curso en Desarrollo Web con Java y PHP
+  - Ametrano & Asociados | Instituto Nacional de Empleo y Formación Profesional
+
+
+
+
