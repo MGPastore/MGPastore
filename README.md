@@ -1,4 +1,4 @@
-![Banner](https://images.prismic.io/intuzwebsite/4822bc94-202b-4c30-a879-433cf91060f6_node+vs+php.jpeg?auto=compress,format)
+![Banner](./banner.jpg)
 
 # Hola, soy Maximiliano Pastore
 
